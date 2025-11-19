@@ -1,4 +1,4 @@
-# LLM Scaling — конспект задач и теста
+# final work
 
 ## LLM Scaling Week 1
 
