@@ -1,4 +1,4 @@
-# final work
+# Final Work
 
 ## LLM Scaling Week 1
 
